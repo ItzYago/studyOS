@@ -1,7 +1,7 @@
 ##Executar todo o projeto
 from terminal.decoracao import decoracao
-from terminal.tasks import tasks
+from terminal.quest import questions
 
 decoracao()
 
-tasks()
+questions()

@@ -23,4 +23,5 @@ def decoracao():
 """)
 
     print("[bold green]Bem-vindo ao terminal do studyOS![/bold green]")
-    print("[bold blue]Digite 'help' para ver os comandos disponíveis.[/bold blue]")
+    print("[bold blue]Digite 'help' para ver os comandos disponíveis.\n"
+    "Digite 'exit' para sair.[/bold blue]")
